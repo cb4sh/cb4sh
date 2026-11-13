@@ -20,7 +20,7 @@ No busco perfección, busco **progreso continuo**.
 
 ## Contáctame
 
-[![Website](https://img.shields.io/badge/-Website-blue?style=flat-square&logo=home-assistant&logoColor=white&link=https://cristianbaeza.com/)]([https://cristianbaeza.com/](https://cristianbaeza.com/links?utm_source=github))
+[![Website](https://img.shields.io/badge/-Website-blue?style=flat-square&logo=home-assistant&logoColor=white)](https://cristianbaeza.com/links?utm_source=github)
 
 ---
 ⭐️ De [Cristian](https://github.com/cristianbaeza0612)
